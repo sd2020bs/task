@@ -1,0 +1,8 @@
+To use this repo
+
+1. Install terraform version >= 0.13
+2. Execute command for install terraform libs and plugins
+terraform init
+3. Check and/or change variables in vars.tf
+4. Run terraform plan to check plan
+5. Run terraform apply to create eks cluster and needed resources
